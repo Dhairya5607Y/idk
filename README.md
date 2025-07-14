@@ -54,6 +54,7 @@ https://github.com/CallMeDimas/Poketwo-Autocatcher/assets/124365950/9b2ad27e-8a5
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
 ### Prerequisites
+ git clone https://github.com/Dhairya5607Y/idk.git
 
 Installing All The Necessary Module.
 
